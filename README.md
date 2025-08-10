@@ -99,7 +99,7 @@ When prompted:
 Go to files and config
 Open gensyn.json
 Grab trainingID and EOA
-In The Swarm channel use: /block <eoa> <trainingID>
+In The Swarm channel use: /block EVM_ADDRESS trainingID
 ---
 
 ## Troubleshooting
