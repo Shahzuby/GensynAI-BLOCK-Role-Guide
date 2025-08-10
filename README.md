@@ -88,6 +88,7 @@ python run.py
 
 When prompted:
 - Enter your **Hugging Face token**.
+- login your gensynAi account 
 - Wait for Minecraft to load.
 - Press **Enter** in terminal when 2 minecraft windows ready.
 - Switch to full screen for better experience.
