@@ -87,13 +87,19 @@ python run.py
 ```
 
 When prompted:
-- Enter your **Hugging Face token**.
+- Enter your **Hugging Face token**
 - login your gensynAi account 
 - Wait for Minecraft to load.
 - Press **Enter** in terminal when 2 minecraft windows ready.
 - Switch to full screen for better experience.
 - play the game on minecraft window 1 dont play on window 2 because window 2 reserved for blockassist
-- play untill 100% goal compeletion 
+- play untill 100% goal compeletion
+- return to your terminal and press ENTER 2 or 3 times to end the session
+- Go to huggingface and locate a recent upload from your BlockAssist.
+Go to files and config
+Open gensyn.json
+Grab trainingID and EOA
+In The Swarm channel use: /block <eoa> <trainingID>
 ---
 
 ## Troubleshooting
